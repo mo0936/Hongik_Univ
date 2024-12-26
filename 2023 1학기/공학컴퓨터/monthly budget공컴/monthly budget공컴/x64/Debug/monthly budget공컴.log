@@ -1,0 +1,21 @@
+﻿  monthly budget.c
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(10,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(12,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(14,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(16,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(18,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(23,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(24,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(25,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(26,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(27,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(29,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(30,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(12,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(14,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(16,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\monthly budget공컴\monthly budget공컴\monthly budget.c(29,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

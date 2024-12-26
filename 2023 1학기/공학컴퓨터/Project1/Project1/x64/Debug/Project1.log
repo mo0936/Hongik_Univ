@@ -1,0 +1,5 @@
+﻿  수업1.c
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\Project1\Project1\수업1.c(1,8): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\Project1\Project1\수업1.c(1,8): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\Project1\Project1\수업1.c(1,8): error C2059: 구문 오류: '문자열'
+C:\Users\mo093\OneDrive\바탕 화면\공학컴퓨터\Project1\Project1\수업1.c(1,57): error C2059: 구문 오류: ')'
